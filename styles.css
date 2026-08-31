@@ -375,89 +375,10 @@ h3 {
   box-shadow: var(--shadow);
 }
 
-.impact-work-list {
-  display: grid;
-  gap: 16px;
-  max-width: 980px;
-}
-
-.impact-work {
-  background: #fff;
-}
-
-.impact-work-summary {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 24px;
-  align-items: start;
-  padding: clamp(22px, 3vw, 34px);
-  cursor: pointer;
-  list-style: none;
-}
-
-.impact-work-summary::-webkit-details-marker {
-  display: none;
-}
-
-.impact-work-summary:focus-visible {
-  outline: 3px solid rgba(22, 125, 127, 0.35);
-  outline-offset: -6px;
-}
-
-.impact-work-title {
-  display: block;
-  max-width: 720px;
-  margin-bottom: 8px;
-  color: var(--ink);
-  font-size: clamp(1.18rem, 1.8vw, 1.55rem);
-  font-weight: 900;
-  line-height: 1.18;
-}
-
-.impact-work-preview {
-  display: block;
-  max-width: 720px;
-  color: var(--muted);
-}
-
-.impact-work-toggle {
-  min-width: 112px;
-  padding: 9px 12px;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  color: var(--teal);
-  font-size: 0.84rem;
-  font-weight: 900;
-  text-align: center;
-  white-space: nowrap;
-}
-
-.impact-work-hide,
-.impact-work[open] .impact-work-view {
-  display: none;
-}
-
-.impact-work[open] .impact-work-hide {
-  display: inline;
-}
-
-.impact-work[open] .impact-work-toggle {
-  color: var(--red);
-  border-color: rgba(187, 63, 49, 0.28);
-}
-
-.impact-work-detail {
-  border-top: 1px solid var(--line);
-}
-
-.compact-detail {
-  display: grid;
-  grid-template-columns: minmax(260px, 0.9fr) minmax(280px, 1.1fr);
-}
-
 .feature-case {
   display: grid;
   grid-template-columns: minmax(320px, 0.85fr) minmax(420px, 1.15fr);
+  margin-bottom: 24px;
 }
 
 .case-copy {
@@ -492,10 +413,43 @@ h3 {
   font-size: 0.82rem;
 }
 
+.case-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.case-grid .case-study {
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
 .case-visual.compact img {
   aspect-ratio: 16 / 9;
   min-height: 0;
   height: auto;
+}
+
+.slide-stack {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  padding: 14px;
+}
+
+.slide-stack img {
+  width: 100%;
+  min-height: 0;
+  height: 100%;
+  padding: 0;
+  border: 1px solid var(--line);
+  background: #fff;
+  object-fit: contain;
+}
+
+.slide-stack img:first-child {
+  grid-column: 1 / -1;
+  aspect-ratio: 16 / 7;
 }
 
 .method-section {
@@ -630,7 +584,6 @@ h3 {
   }
 
   .feature-case,
-  .compact-detail,
   .method-section,
   .intro-grid,
   .leadership-layout,
@@ -692,6 +645,7 @@ h3 {
 
   .metric-band,
   .capability-grid,
+  .case-grid,
   .method-steps,
   .timeline,
   .credential-columns {
@@ -720,19 +674,17 @@ h3 {
     padding: 24px;
   }
 
-  .impact-work-summary {
-    grid-template-columns: 1fr;
-    gap: 16px;
-    padding: 22px;
-  }
-
-  .impact-work-toggle {
-    justify-self: start;
-  }
-
   .case-visual img {
     min-height: 260px;
     padding: 10px;
+  }
+
+  .slide-stack {
+    grid-template-columns: 1fr;
+  }
+
+  .slide-stack img:first-child {
+    grid-column: auto;
   }
 
   .site-footer {
