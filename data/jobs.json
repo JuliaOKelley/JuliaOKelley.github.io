@@ -1,0 +1,153 @@
+{
+  "updated_at": "2026-08-31",
+  "timezone": "MST",
+  "candidate": {
+    "name": "Julia O'Kelley",
+    "location_preference": "Remote U.S.; Montana-friendly; western U.S. nearby when relevant",
+    "target_profile": "Customer Experience, Voice of Customer, customer insights, brand and market research, analytics operations, change management, executive reporting, customer lifecycle programs"
+  },
+  "sources_checked": [
+    "Company career sites",
+    "Workday",
+    "Lever",
+    "Greenhouse",
+    "Indeed",
+    "FlexJobs",
+    "Remote.com",
+    "Built In",
+    "McCoy Hiring Tracker",
+    "DailyRemote"
+  ],
+  "jobs": [
+    {
+      "company": "College Board",
+      "title": "Director, Customer Experience Strategy & Solutions",
+      "location": "Remote - USA",
+      "posted": "Posted 3 days ago",
+      "posted_date": "2026-08-28",
+      "fit": "Excellent match for CX strategy, operational readiness, customer support experience, cross-functional alignment, and voice-of-customer driven decision-making.",
+      "tags": ["Remote", "Customer Experience", "Operations", "VOC", "Director"],
+      "salary": "Not listed",
+      "career_url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/Careers/job/Director--Customer-Experience-Strategy---Solutions_REQ002737",
+      "job_board_url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/Careers/job/Director--Customer-Experience-Strategy---Solutions_REQ002737",
+      "verification_note": "Official Workday career listing showed Remote - USA and Posted 3 Days Ago when reviewed."
+    },
+    {
+      "company": "Extreme Networks",
+      "title": "Director, Voice of the Customer Programs",
+      "location": "North Carolina, United States / Remote",
+      "posted": "Posted Aug 19, 2026 on FlexJobs; official Lever role active",
+      "posted_date": "2026-08-19",
+      "fit": "Strong VOC and customer advocacy fit: customer insight programs, executive customer engagement, customer stories, brand awareness, and cross-functional influence.",
+      "tags": ["Remote", "Voice of Customer", "Customer Advocacy", "Brand", "Director"],
+      "salary": "$130K-$190K",
+      "career_url": "https://jobs.lever.co/extremenetworks/3e6ec458-8ec2-43b3-b0a4-d075f514a381",
+      "job_board_url": "https://www.flexjobs.com/gjw/extreme_networks/director-voice-of-the-customer-programs/publicjobs?id=cc8c1f6b-25f3-42d7-bf24-5f7de88fae2e",
+      "verification_note": "Official Lever career listing was active when reviewed; FlexJobs showed 100% remote and Aug 19, 2026."
+    },
+    {
+      "company": "Otsuka America Pharmaceutical",
+      "title": "Director, Brand Insights - Rare Metabolic",
+      "location": "Remote",
+      "posted": "Posted 21 days ago",
+      "posted_date": "2026-08-10",
+      "fit": "Excellent brand and market research fit: primary market research, competitive intelligence, business analytics, launch insight planning, and leadership influence.",
+      "tags": ["Remote", "Brand Insights", "Market Research", "Analytics", "Director"],
+      "salary": "$186K-$279K",
+      "career_url": "https://vhr-otsuka.wd1.myworkdayjobs.com/en-US/External/job/Director--Brand-Insights---Rare-Metabolic_R12685",
+      "job_board_url": "https://biopharma-careers.com/jobs/director-brand-insights-rare-metabolic-otsuka-america-pharmaceutical-inc-130980",
+      "verification_note": "Official Otsuka Workday listing showed Remote, Posted 21 Days Ago, and the salary range when reviewed."
+    },
+    {
+      "company": "Dexcom",
+      "title": "Associate Customer Insights Manager",
+      "location": "Remote - United States",
+      "posted": "Posted 28 days ago",
+      "posted_date": "2026-08-03",
+      "fit": "Good market research and insights match, though lower seniority: qualitative and quantitative research, brand tracking, market landscape, and insight storytelling.",
+      "tags": ["Remote", "Customer Insights", "Market Research", "Brand Tracking"],
+      "salary": "$91K-$152K",
+      "career_url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Associate-Customer-Insights-Manager_JR119543",
+      "job_board_url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Associate-Customer-Insights-Manager_JR119543",
+      "verification_note": "Official Dexcom Workday listing showed Remote - United States and Posted 28 Days Ago when reviewed."
+    },
+    {
+      "company": "GitHub",
+      "title": "Sr. Director, Brand Strategy",
+      "location": "United States",
+      "posted": "Recently crawled on official careers site",
+      "posted_date": "2026-08-30",
+      "fit": "Strong brand strategy and executive storytelling match with customer insights, launch storytelling, measurable content paths, and brand operating discipline.",
+      "tags": ["Brand Strategy", "Customer Insights", "Executive", "Remote-friendly"],
+      "salary": "Not listed",
+      "career_url": "https://www.github.careers/careers-home/jobs/5706?lang=en-us",
+      "job_board_url": "https://www.github.careers/careers-home/jobs/5706?lang=en-us",
+      "verification_note": "Official GitHub careers listing was indexed as current when reviewed."
+    },
+    {
+      "company": "Sprinklr",
+      "title": "Director, Customer Success - West",
+      "location": "Washington / Oregon / Utah / Colorado / Arizona - Remote",
+      "posted": "Posted 3 days ago",
+      "posted_date": "2026-08-28",
+      "fit": "Good western-U.S. remote fit for enterprise CXM, customer lifecycle, adoption, value realization, forecasting, and voice-of-customer representation.",
+      "tags": ["Remote West", "Customer Success", "CXM", "Enterprise", "Director"],
+      "salary": "Not listed",
+      "career_url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Washington---Remote/Director--Customer-Success---West_113035-JOB",
+      "job_board_url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Washington---Remote/Director--Customer-Success---West_113035-JOB",
+      "verification_note": "Official Workday listing showed western remote locations and Posted 3 Days Ago when reviewed."
+    },
+    {
+      "company": "AlphaSense",
+      "title": "Senior Director, Customer Lifecycle Marketing - Usage & Engagement",
+      "location": "Remote - United States",
+      "posted": "Posted Aug 11-14, 2026 across remote job boards",
+      "posted_date": "2026-08-14",
+      "fit": "Adjacent but strong customer-program fit: lifecycle strategy, adoption, behavioral data, customer education, product usage, experimentation, and revenue operations.",
+      "tags": ["Remote", "Customer Lifecycle", "Customer Marketing", "SaaS", "Senior Director"],
+      "salary": "$192K-$235K",
+      "career_url": "https://jobs.lever.co/jobgether/?location=US",
+      "job_board_url": "https://remote.com/jobs/alphasense-c1d69ith/senior-director-customer-lifecycle-marketing-usage-engagement-j1co5e4f",
+      "verification_note": "Remote.com and Built In showed the role as remote U.S.; Jobgether Lever board was used as the current application verification path."
+    },
+    {
+      "company": "Clio",
+      "title": "Senior Director, Customer Support",
+      "location": "Remote - USA",
+      "posted": "Still open; first seen Aug 18, 2026",
+      "posted_date": "2026-08-18",
+      "fit": "Adjacent CX operations leadership fit: support experience, AI support operations, customer feedback loops, product influence, executive escalation, and SaaS scale.",
+      "tags": ["Remote", "Customer Support", "CX Operations", "AI Support", "Senior Director"],
+      "salary": "$184K-$276K",
+      "career_url": "https://clio.wd3.myworkdayjobs.com/cliocareersite/job/remote---usa/senior-director--customer-support_req-4978",
+      "job_board_url": "https://tracker.mccoy.io/postings/clio%3AREQ-4978",
+      "verification_note": "McCoy showed still open and official Workday source URL; official listing showed Remote - USA when reviewed."
+    },
+    {
+      "company": "Regeneron",
+      "title": "Director, Global Commercial Planning & Strategy - Rare Disease",
+      "location": "Remote - United States",
+      "posted": "Posted 3 days ago",
+      "posted_date": "2026-08-28",
+      "fit": "Adjacent commercial strategy fit with brand strategy, customer engagement planning, competitive intelligence, omnichannel communication, and market dynamics.",
+      "tags": ["Remote", "Commercial Strategy", "Brand Strategy", "Customer Engagement", "Director"],
+      "salary": "Not listed",
+      "career_url": "https://regeneron.wd1.myworkdayjobs.com/careers/job/remote---united-states/director--global-commercial-planning---strategy--rare-disease-_r49561",
+      "job_board_url": "https://regeneron.wd1.myworkdayjobs.com/careers/job/remote---united-states/director--global-commercial-planning---strategy--rare-disease-_r49561",
+      "verification_note": "Official Workday listing showed Remote - United States and Posted 3 Days Ago when reviewed."
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Program Manager, Alexa Connections",
+      "location": "Seattle, WA",
+      "posted": "Posted Aug 28, 2026",
+      "posted_date": "2026-08-28",
+      "fit": "Nearby western-U.S. option for strategic program management, customer experience, go-to-market operations, partnerships, and senior stakeholder influence.",
+      "tags": ["Seattle", "Program Management", "Customer Experience", "GTM", "Nearby"],
+      "salary": "$116K-$160K",
+      "career_url": "https://www.amazon.jobs/en/jobs/10519718/sr-program-manager-alexa-connections",
+      "job_board_url": "https://tracker.mccoy.io/postings/amazon%3A10519718",
+      "verification_note": "McCoy showed still open, posted Aug 28, 2026, with Amazon career source URL."
+    }
+  ]
+}
