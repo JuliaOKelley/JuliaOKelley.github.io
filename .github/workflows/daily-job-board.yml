@@ -28,4 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Refresh job board"
-          file_pattern: "jobs.html data/jobs.json"
+          file_pattern: "jobs.html data/jobs.json data/job_discovery_report.json"

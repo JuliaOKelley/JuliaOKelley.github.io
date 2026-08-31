@@ -1,0 +1,28 @@
+{
+  "discovery_sources": [
+    {
+      "name": "Remote.com",
+      "url": "https://remote.com/jobs/all?query=customer%20experience%20director"
+    },
+    {
+      "name": "FlexJobs",
+      "url": "https://www.flexjobs.com/search?search=voice+of+customer+director&location="
+    },
+    {
+      "name": "Built In",
+      "url": "https://builtin.com/jobs/remote?search=customer%20insights%20director"
+    },
+    {
+      "name": "DailyRemote",
+      "url": "https://dailyremote.com/remote-jobs/search?search=customer%20experience%20director"
+    },
+    {
+      "name": "McCoy Hiring Tracker",
+      "url": "https://tracker.mccoy.io/?q=voice%20of%20customer"
+    },
+    {
+      "name": "Greenhouse",
+      "url": "https://boards.greenhouse.io/embed/job_board?for=remotecom"
+    }
+  ]
+}
