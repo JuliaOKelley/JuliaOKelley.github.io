@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-31",
-  "leads": [],
+  "updated_at": "2026-09-01",
+  "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Director of Product, Customer Experience",
+      "url": "https://remote.com/jobs/voltus-c1iv1n6i/director-of-product-customer-experience-j14xui47"
+    }
+  ],
   "notes": [
-    "Initial report. The scheduled GitHub Action refreshes this file at 6 AM MST."
+    "DailyRemote: HTTP Error 404: Not Found"
   ]
 }
