@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03",
+  "updated_at": "2026-09-04",
   "leads": [
     {
       "source": "Remote.com",
@@ -8,6 +8,7 @@
     }
   ],
   "notes": [
-    "DailyRemote: HTTP Error 404: Not Found"
+    "DailyRemote: HTTP Error 404: Not Found",
+    "McCoy Hiring Tracker: The read operation timed out"
   ]
 }
