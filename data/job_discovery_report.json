@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09",
+  "updated_at": "2026-09-10",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Associate Director, Customer Experience Operations",
+      "url": "https://remote.com/jobs/ro-c1jyx06w/associate-director-customer-experience-operations-j1b8sv7x"
+    },
     {
       "source": "Remote.com",
       "title": "Director of Product, Customer Experience",
@@ -8,7 +13,6 @@
     }
   ],
   "notes": [
-    "FlexJobs: HTTP Error 403: Forbidden",
     "DailyRemote: HTTP Error 404: Not Found"
   ]
 }
