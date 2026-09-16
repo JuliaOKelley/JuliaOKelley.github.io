@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15",
+  "updated_at": "2026-09-16",
   "leads": [
     {
       "source": "Remote.com",
@@ -13,7 +13,6 @@
     }
   ],
   "notes": [
-    "FlexJobs: HTTP Error 403: Forbidden",
     "DailyRemote: HTTP Error 404: Not Found"
   ]
 }
