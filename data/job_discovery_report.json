@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-10-13",
+  "updated_at": "2026-10-14",
   "leads": [
     {
       "source": "Remote.com",
-      "title": "Senior Customer Experience Designer (UX & Creative)",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/senior-customer-experience-designer-ux-creative-j100k8tx"
-    },
-    {
-      "source": "Remote.com",
-      "title": "Overnight Remote Customer Experience Representative, Robinhood Concierge",
-      "url": "https://remote.com/jobs/robinhood-c1ckkyvq/overnight-remote-customer-experience-representative-robinhood-concierge-j1tbx0vu"
+      "title": "Senior Manager of Customer Experience",
+      "url": "https://remote.com/jobs/figs-c1fd30pt/senior-manager-of-customer-experience-j1bi2s5k"
     },
     {
       "source": "Remote.com",
@@ -30,11 +25,6 @@
       "source": "Remote.com",
       "title": "Revenue Operations Analyst - Customer Experience & Partner Operations",
       "url": "https://remote.com/jobs/sprinto-c1o8jsbo/revenue-operations-analyst-customer-experience-partner-operations-j10fg7zz"
-    },
-    {
-      "source": "Remote.com",
-      "title": "Customer Experience Associate",
-      "url": "https://remote.com/jobs/peerspace-c13bahsv/customer-experience-associate-j1gjhr0t"
     },
     {
       "source": "Remote.com",
@@ -73,7 +63,6 @@
     }
   ],
   "notes": [
-    "FlexJobs: HTTP Error 403: Forbidden",
     "DailyRemote: HTTP Error 404: Not Found"
   ]
 }
