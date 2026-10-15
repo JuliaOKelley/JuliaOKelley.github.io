@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14",
+  "updated_at": "2026-10-15",
   "leads": [
     {
       "source": "Remote.com",
@@ -63,6 +63,8 @@
     }
   ],
   "notes": [
-    "DailyRemote: HTTP Error 404: Not Found"
+    "FlexJobs: HTTP Error 403: Forbidden",
+    "DailyRemote: HTTP Error 404: Not Found",
+    "Greenhouse: HTTP Error 404: Not Found"
   ]
 }
