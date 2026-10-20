@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-19",
+  "updated_at": "2026-10-20",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Head of Customer Experience",
+      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/head-of-customer-experience-j131gksm"
+    },
     {
       "source": "Remote.com",
       "title": "Senior Manager of Customer Experience",
