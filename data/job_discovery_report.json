@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-20",
+  "updated_at": "2026-10-21",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Customer Experience Specialist",
+      "url": "https://remote.com/jobs/flex-c18w32b3/customer-experience-specialist-j1da0z9t"
+    },
     {
       "source": "Remote.com",
       "title": "Head of Customer Experience",
