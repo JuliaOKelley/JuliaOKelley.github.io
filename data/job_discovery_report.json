@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-25",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Customer Experience Associate I",
+      "url": "https://remote.com/jobs/wisetack-c1rcxxeu/customer-experience-associate-i-j1hy2lp9"
+    },
+    {
+      "source": "Remote.com",
+      "title": "Software Development Engineer - Customer Experience (L1)",
+      "url": "https://remote.com/jobs/zinier-inc-c12szy9x/software-development-engineer-customer-experience-l1-j166mygu"
+    },
     {
       "source": "Remote.com",
       "title": "Customer Experience Specialist",
