@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-27",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Senior Customer Experience Strategist",
+      "url": "https://remote.com/jobs/oura-c18olilb/senior-customer-experience-strategist-j1ochyqc"
+    },
     {
       "source": "Remote.com",
       "title": "Customer Experience Associate I",
@@ -15,11 +20,6 @@
       "source": "Remote.com",
       "title": "Customer Experience Specialist",
       "url": "https://remote.com/jobs/flex-c18w32b3/customer-experience-specialist-j1da0z9t"
-    },
-    {
-      "source": "Remote.com",
-      "title": "Head of Customer Experience",
-      "url": "https://remote.com/jobs/jobgether-c1xcbjrw/head-of-customer-experience-j131gksm"
     },
     {
       "source": "Remote.com",
@@ -75,6 +75,11 @@
       "source": "Remote.com",
       "title": "Customer Experience Manager",
       "url": "https://remote.com/jobs/bennie-c1frn747/customer-experience-manager-j1dvtrsf"
+    },
+    {
+      "source": "Built In",
+      "title": "Associate Director Customer Experience Insights",
+      "url": "https://builtin.com/job/associate-director-customer-experience-insights/11903831"
     }
   ],
   "notes": [
