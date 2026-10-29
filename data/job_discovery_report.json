@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28",
+  "updated_at": "2026-10-29",
   "leads": [
     {
       "source": "Remote.com",
@@ -75,16 +75,9 @@
       "source": "Remote.com",
       "title": "Customer Experience Manager",
       "url": "https://remote.com/jobs/bennie-c1frn747/customer-experience-manager-j1dvtrsf"
-    },
-    {
-      "source": "Built In",
-      "title": "Associate Director Customer Experience Insights",
-      "url": "https://builtin.com/job/associate-director-customer-experience-insights/11903831"
     }
   ],
   "notes": [
-    "FlexJobs: HTTP Error 403: Forbidden",
-    "DailyRemote: HTTP Error 404: Not Found",
-    "Greenhouse: HTTP Error 404: Not Found"
+    "DailyRemote: HTTP Error 404: Not Found"
   ]
 }
