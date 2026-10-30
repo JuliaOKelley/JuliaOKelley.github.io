@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-10-30",
   "leads": [
-    {
-      "source": "Remote.com",
-      "title": "Senior Customer Experience Strategist",
-      "url": "https://remote.com/jobs/oura-c18olilb/senior-customer-experience-strategist-j1ochyqc"
-    },
     {
       "source": "Remote.com",
       "title": "Customer Experience Associate I",
@@ -43,28 +38,13 @@
     },
     {
       "source": "Remote.com",
-      "title": "Customer Experience Associate",
-      "url": "https://remote.com/jobs/nabis-c18bdnig/customer-experience-associate-j1zmzj7i"
-    },
-    {
-      "source": "Remote.com",
       "title": "Customer Experience Manager",
       "url": "https://remote.com/jobs/happyco-c1rjc3fb/customer-experience-manager-j1h9vw16"
     },
     {
       "source": "Remote.com",
-      "title": "Customer Experience Advocate",
-      "url": "https://remote.com/jobs/protective-life-insurance-company-c13d3or7/customer-experience-advocate-j1n776n6"
-    },
-    {
-      "source": "Remote.com",
       "title": "Senior Customer Experience Expert, JR625",
       "url": "https://remote.com/jobs/eleks-c1btlyfj/senior-customer-experience-expert-jr625-j1zfvtux"
-    },
-    {
-      "source": "Remote.com",
-      "title": "Customer Experience Advocate",
-      "url": "https://remote.com/jobs/protective-life-insurance-company-c13d3or7/customer-experience-advocate-j1rshadg"
     },
     {
       "source": "Remote.com",
@@ -75,6 +55,11 @@
       "source": "Remote.com",
       "title": "Customer Experience Manager",
       "url": "https://remote.com/jobs/bennie-c1frn747/customer-experience-manager-j1dvtrsf"
+    },
+    {
+      "source": "FlexJobs",
+      "title": "Analyst, Voice of Customer",
+      "url": "https://www.flexjobs.com/publicjobs/analyst-voice-of-customer-f778abab-401b-4564-8879-e444be56d551"
     }
   ],
   "notes": [
