@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-10-31",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Online | Customer Experience Associate | Entry Level",
+      "url": "https://remote.com/jobs/aisles-abroad-c167gayv/online-customer-experience-associate-entry-level-j1pqrtae"
+    },
     {
       "source": "Remote.com",
       "title": "Customer Experience Associate I",
@@ -50,19 +55,10 @@
       "source": "Remote.com",
       "title": "Program Manager, Customer Experience",
       "url": "https://remote.com/jobs/sprinto-c1o8jsbo/program-manager-customer-experience-j1lcirkb"
-    },
-    {
-      "source": "Remote.com",
-      "title": "Customer Experience Manager",
-      "url": "https://remote.com/jobs/bennie-c1frn747/customer-experience-manager-j1dvtrsf"
-    },
-    {
-      "source": "FlexJobs",
-      "title": "Analyst, Voice of Customer",
-      "url": "https://www.flexjobs.com/publicjobs/analyst-voice-of-customer-f778abab-401b-4564-8879-e444be56d551"
     }
   ],
   "notes": [
+    "FlexJobs: HTTP Error 403: Forbidden",
     "DailyRemote: HTTP Error 404: Not Found"
   ]
 }
