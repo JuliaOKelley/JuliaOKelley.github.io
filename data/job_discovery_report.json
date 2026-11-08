@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Customer Experience Agent",
+      "url": "https://remote.com/jobs/fi-c1lrysdt/customer-experience-agent-j1lv9ixt"
+    },
     {
       "source": "Remote.com",
       "title": "VP Customer Experience",
