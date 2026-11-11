@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "leads": [
+    {
+      "source": "Remote.com",
+      "title": "Remote | Customer Experience Associate | Entry-Level",
+      "url": "https://remote.com/jobs/aisles-abroad-c167gayv/remote-customer-experience-associate-entry-level-j1cffo0q"
+    },
     {
       "source": "Remote.com",
       "title": "VP Customer Experience",
